@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**Pedroreis500/Pedroreis500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h2> Hi there, </h2>
+ 
+ <h3> About me: </h3>
 
-Here are some ideas to get you started:
+```php
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <?php
+
+$aboutMe = [
+    $level = 'begginer', 
+    $code = ['Javascript', 'PHP', 'HTML', 'CSS'],
+    $tecnologies = 
+    [
+       $frontEnd = 
+        [
+            $js = ["Vue.js"],
+            $css = ["Bootstrap"]
+        ],
+
+       $backEnd = [
+            $php = ["Laravel"]
+       ],
+
+       $dataBase = [
+            $databases = ["MySQL"]
+       ],
+    ]
+];
+
+```
