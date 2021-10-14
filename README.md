@@ -9,7 +9,8 @@
   <?php
 
 $aboutMe = [
-    $level = 'begginer', 
+    $level = 'begginer',
+    // Learning:
     $code = ['Javascript', 'PHP', 'HTML', 'CSS'],
     $tecnologies = 
     [
