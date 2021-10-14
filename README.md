@@ -1,7 +1,7 @@
 
- <h2> Hi there, </h2>
+ <h3> Hi there, </h3>
  
- <h3> About me 😄 </h3>
+ <h2> About me 😄 </h2>
  
  
 ```php
