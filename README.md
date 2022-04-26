@@ -1,3 +1,6 @@
+ <h3> Olá, sou Pedro Reis 😄, amante de programação e tecnologia! </h3>
+
+
 <div>
 <a href="https://github.com/pedroreis500">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroreis500&layout=compact&langs_count=7&theme=dracula"/>
