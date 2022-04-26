@@ -1,4 +1,4 @@
- <h3> Olá, sou Pedro Reis 😄, amante de programação e tecnologia! </h3>
+ <h2> Olá, sou Pedro Reis 😄, amante de programação e tecnologia! </h2>
 
 
 <div>
