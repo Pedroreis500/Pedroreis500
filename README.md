@@ -9,6 +9,6 @@
 
  ![Snake animation](https://github.com/pedroreis500/pedroreis500/blob/output/github-contribution-grid-snake.svg)
  
- ![js](https://user-images.githubusercontent.com/80926962/165357323-2ba9045b-4b71-4a2a-bcb2-f18e81268607.jpg)
+
 
 
