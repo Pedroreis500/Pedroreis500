@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroreis500&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 
  ![Snake animation](https://github.com/pedroreis500/pedroreis500/blob/output/github-contribution-grid-snake.svg)
  
